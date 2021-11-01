@@ -1,4 +1,4 @@
-![Hi There](https://www.linkedin.com/in/vini-jai-marsaline/)
+![Hi There]
 
 
 - 👋 Hi, I’m @ViniJohn
