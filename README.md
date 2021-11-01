@@ -2,7 +2,7 @@
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning Django and Data analysis with python
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me j.vinijaimarsaline@gmail.com
+- 📫 How to reach me linkedin.com/in/vini-jai-marsaline
 
 <!---
 ViniJohn/ViniJohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
