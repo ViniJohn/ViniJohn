@@ -1,6 +1,3 @@
-![Hi There]()
-
-
 - 👋 Hi, I’m @ViniJohn
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning Django and Data analysis with python
